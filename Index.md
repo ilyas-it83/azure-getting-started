@@ -1,14 +1,21 @@
 # Getting Started with Azure
 
+[Azure Services](https://azure.microsoft.com/en-in/services/)
+[Azure Charts](https://azurecharts.com/overview)
+
 ## Learning Resources
+
+- [Microsoft docs](https://docs.microsoft.com/en-in/)
 - [Microsoft Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
-- []
+- [Azure Learning Path](https://docs.microsoft.com/en-in/learn/azure/)
+
 
 ## Video Learning
-- Learn TV
-- Channenl 9
+- [Learn TV](https://docs.microsoft.com/en-in/learn/tv/)
+- [Channenl 9](https://channel9.msdn.com/)
 - YoutubeChannels
   - [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA/videos)
+  - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper)
 
 ## Massive Open Online Courses (MOOCs) Free & Paid
 - [PluralSight](https://www.pluralsight.com/partners/microsoft/azure)
@@ -33,3 +40,9 @@
 ## Github 
 - [Microsoft's Repo](https://github.com/microsoft)
 - [Azure Workshops](https://github.com/AzureWorkshops)
+
+## Reference Architectures
+- [Reference Architectures](https://docs.microsoft.com/en-in/azure/architecture/browse/)
+
+## Azure Certifications
+[Azure Certifications](https://docs.microsoft.com/en-in/learn/certifications/)
