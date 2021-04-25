@@ -1,19 +1,19 @@
+
 # Getting Started with Azure
 
-[Azure Services](https://azure.microsoft.com/en-in/services/)
-[Azure Charts](https://azurecharts.com/overview)
+- [Azure Services](https://azure.microsoft.com/en-in/services/)
+- [Azure Charts](https://azurecharts.com/overview)
 
 ## Learning Resources
 
-- [Microsoft docs](https://docs.microsoft.com/en-in/)
+- [Microsoft Docs](https://docs.microsoft.com/en-in/)
 - [Microsoft Azure Learn](https://docs.microsoft.com/en-us/learn/azure/)
-- [Azure Learning Path](https://docs.microsoft.com/en-in/learn/azure/)
 
 
 ## Video Learning
 - [Learn TV](https://docs.microsoft.com/en-in/learn/tv/)
 - [Channenl 9](https://channel9.msdn.com/)
-- YoutubeChannels
+- Youtube Channels
   - [Microsoft Azure](https://www.youtube.com/channel/UC0m-80FnNY2Qb7obvTL_2fA/videos)
   - [Microsoft Developer](https://www.youtube.com/c/MicrosoftDeveloper)
 
@@ -23,14 +23,14 @@
 - [Coursera](https://www.coursera.org/search?query=azure)
 - [Linkedin Learning](https://www.linkedin.com/learning/topics/azure?u=94414770)
 - [A Cloud Guru](https://acloudguru.com/azure-cloud-training)
-- [Udemy](https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081)
+- [Udacity](https://www.udacity.com/course/cloud-developer-using-microsoft-azure-nanodegree--nd081)
 - [CBT Nuggets](https://www.cbtnuggets.com/it-training/microsoft-azure)
 
 ## Hands-On Learning
 - [Free Azure Trial](https://azure.microsoft.com/en-in/offers/ms-azr-0044p/)
-- [MSDN](https://azure.microsoft.com/en-in/pricing/member-offers/-credit-for-visual-studio-subscribers/)
+- [MSDN](https://azure.microsoft.com/en-in/pricing/member-offers/credit-for-visual-studio-subscribers/)
 - Enterprise Users
-
+- [Azure Quickstart Center](https://portal.azure.com/#blade/Microsoft_Azure_Resources/QuickstartCenterBlade)
 ## EBooks
 - [EBooks](https://azure.microsoft.com/en-us/resources/whitepapers/search/?type=EBookResource)
 
@@ -45,4 +45,12 @@
 - [Reference Architectures](https://docs.microsoft.com/en-in/azure/architecture/browse/)
 
 ## Azure Certifications
-[Azure Certifications](https://docs.microsoft.com/en-in/learn/certifications/)
+- [Azure Certifications](https://docs.microsoft.com/en-in/learn/certifications/)
+
+## Azure Meetups
+
+- [Azure Meetups](https://www.meetup.com/topics/azure/)
+
+## Microsoft Events
+
+- [Microsoft Events](https://events.microsoft.com/)
